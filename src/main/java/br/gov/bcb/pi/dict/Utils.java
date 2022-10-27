@@ -11,7 +11,6 @@ import java.util.UUID;
 import static com.google.common.base.Charsets.UTF_8;
 
 public class Utils {
-
     private static final String SEPARATOR = "&";
 
     public static String cidForEntry(Entry entry, UUID requestId) {
